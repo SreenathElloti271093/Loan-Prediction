@@ -1,0 +1,40 @@
+Metadata-Version: 2.4
+Name: prediction_model
+Version: 1.0.0
+Summary: Loan Prediction Model
+Home-page: https://github.com/SreenathElloti271093
+Author: Sreenath Elloti
+Author-email: sreenathelloti27@gmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.12.0
+Description-Content-Type: text/markdown
+Requires-Dist: numpy==1.26.4
+Requires-Dist: pandas==2.2.2
+Requires-Dist: joblib==1.4.2
+Requires-Dist: scikit-learn==1.4.2
+Requires-Dist: scipy==1.13.1
+Requires-Dist: pytest==7.4.4
+Requires-Dist: setuptools==80.4.0
+Requires-Dist: wheel==0.45.1
+Requires-Dist: fastapi==0.115.6
+Requires-Dist: pydantic==2.9.2
+Requires-Dist: uvicorn==0.34.0
+Requires-Dist: gunicorn==23.0.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+
